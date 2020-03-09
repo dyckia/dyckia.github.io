@@ -3,19 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dyckia.github.io/project/chess/</loc>
+    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/</loc>
+    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/</loc>
+    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/tags/</loc>
+    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/tags/abd/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/categories/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/categories/gege/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/hiking/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/categories/hoho/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/tags/ss/</loc>
+    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dyckia.github.io/authors/admin/</loc>
   </url>
   
   <url>
     <loc>https://dyckia.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dyckia.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dyckia.github.io/</loc>
   </url>
   
   <url>
@@ -32,10 +79,6 @@
   
   <url>
     <loc>https://dyckia.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dyckia.github.io/tags/</loc>
   </url>
   
 </urlset>

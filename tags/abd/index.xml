@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abd | Jason Feng</title>
+    <link>https://dyckia.github.io/tags/abd/</link>
+      <atom:link href="https://dyckia.github.io/tags/abd/index.xml" rel="self" type="application/rss+xml" />
+    <description>abd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Mar 2020 21:16:55 -0230</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>abd</title>
+      <link>https://dyckia.github.io/tags/abd/</link>
+    </image>
+    
+    <item>
+      <title>Hiking</title>
+      <link>https://dyckia.github.io/project/hiking/</link>
+      <pubDate>Sun, 08 Mar 2020 21:16:55 -0230</pubDate>
+      <guid>https://dyckia.github.io/project/hiking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
