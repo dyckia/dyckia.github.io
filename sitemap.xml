@@ -3,58 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dyckia.github.io/project/chess/</loc>
-    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+    <loc>https://dyckia.github.io/project/hikenl/</loc>
+    <lastmod>2020-03-22T16:12:45-02:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dyckia.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+    <loc>https://dyckia.github.io/project/sorting-algorithm-visualizer/</loc>
+    <lastmod>2020-03-22T21:53:12-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/recipedia/</loc>
+    <lastmod>2020-03-22T21:53:43-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/traffic-sign-classifier/</loc>
+    <lastmod>2020-03-22T21:52:50-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/flappy-bird/</loc>
+    <lastmod>2020-03-22T21:52:13-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/restful-blog/</loc>
+    <lastmod>2020-03-22T22:17:02-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/leetcode/</loc>
+    <lastmod>2020-03-22T21:53:54-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/obstacle-detection/</loc>
+    <lastmod>2020-03-22T21:52:30-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/project/color-picker-game/</loc>
+    <lastmod>2020-03-22T21:54:11-02:30</lastmod>
   </url>
   
   <url>
     <loc>https://dyckia.github.io/</loc>
-    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+    <lastmod>2020-03-22T22:17:02-02:30</lastmod>
   </url>
   
   <url>
     <loc>https://dyckia.github.io/project/</loc>
-    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+    <lastmod>2020-03-22T22:17:02-02:30</lastmod>
   </url>
   
   <url>
     <loc>https://dyckia.github.io/tags/</loc>
-    <lastmod>2020-03-08T21:39:20-02:30</lastmod>
+    <lastmod>2020-03-22T22:17:02-02:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dyckia.github.io/tags/abd/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+    <loc>https://dyckia.github.io/tags/web/</loc>
+    <lastmod>2020-03-22T22:17:02-02:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dyckia.github.io/categories/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+    <loc>https://dyckia.github.io/tags/java/</loc>
+    <lastmod>2020-03-22T21:53:54-02:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dyckia.github.io/categories/gege/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+    <loc>https://dyckia.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-03-22T21:52:50-02:30</lastmod>
   </url>
   
   <url>
-    <loc>https://dyckia.github.io/project/hiking/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dyckia.github.io/categories/hoho/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dyckia.github.io/tags/ss/</loc>
-    <lastmod>2020-03-08T21:16:55-02:30</lastmod>
+    <loc>https://dyckia.github.io/tags/python/</loc>
+    <lastmod>2020-03-22T21:52:50-02:30</lastmod>
   </url>
   
   <url>
@@ -63,6 +88,10 @@
   
   <url>
     <loc>https://dyckia.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dyckia.github.io/categories/</loc>
   </url>
   
   <url>
