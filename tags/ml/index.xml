@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml | Jason Feng</title>
+    <link>https://dyckia.github.io/tags/ml/</link>
+      <atom:link href="https://dyckia.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ml</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 22:21:21 -0330</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ml</title>
+      <link>https://dyckia.github.io/tags/ml/</link>
+    </image>
+    
+    <item>
+      <title>Image Super-resolution</title>
+      <link>https://dyckia.github.io/project/srgan/</link>
+      <pubDate>Thu, 04 Mar 2021 17:53:20 -0330</pubDate>
+      <guid>https://dyckia.github.io/project/srgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Classifier</title>
+      <link>https://dyckia.github.io/project/traffic-sign/</link>
+      <pubDate>Thu, 04 Mar 2021 22:21:21 -0330</pubDate>
+      <guid>https://dyckia.github.io/project/traffic-sign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
