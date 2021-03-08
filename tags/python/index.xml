@@ -5,7 +5,7 @@
     <link>https://dyckia.github.io/tags/python/</link>
       <atom:link href="https://dyckia.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 22:21:21 -0330</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 19:52:58 -0330</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>python</title>
@@ -45,10 +45,10 @@
     </item>
     
     <item>
-      <title>Traffic Sign Classifier</title>
-      <link>https://dyckia.github.io/project/traffic-sign/</link>
-      <pubDate>Thu, 04 Mar 2021 22:21:21 -0330</pubDate>
-      <guid>https://dyckia.github.io/project/traffic-sign/</guid>
+      <title>House Number Recognition</title>
+      <link>https://dyckia.github.io/project/house-number/</link>
+      <pubDate>Sun, 07 Mar 2021 19:52:58 -0330</pubDate>
+      <guid>https://dyckia.github.io/project/house-number/</guid>
       <description></description>
     </item>
     
