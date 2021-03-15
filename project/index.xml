@@ -5,7 +5,7 @@
     <link>https://dyckia.github.io/project/</link>
       <atom:link href="https://dyckia.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 19:52:58 -0330</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 17:03:42 -0230</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>ThinkMate</title>
-      <link>https://dyckia.github.io/project/thinkmate/</link>
-      <pubDate>Thu, 04 Mar 2021 17:51:59 -0330</pubDate>
-      <guid>https://dyckia.github.io/project/thinkmate/</guid>
+      <title>Sorting Visualizer</title>
+      <link>https://dyckia.github.io/project/sorting-visualizer/</link>
+      <pubDate>Mon, 15 Mar 2021 17:03:42 -0230</pubDate>
+      <guid>https://dyckia.github.io/project/sorting-visualizer/</guid>
       <description></description>
     </item>
     
@@ -33,6 +33,14 @@
       <link>https://dyckia.github.io/project/srgan/</link>
       <pubDate>Thu, 04 Mar 2021 17:53:20 -0330</pubDate>
       <guid>https://dyckia.github.io/project/srgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ThinkMate</title>
+      <link>https://dyckia.github.io/project/thinkmate/</link>
+      <pubDate>Thu, 04 Mar 2021 17:51:59 -0330</pubDate>
+      <guid>https://dyckia.github.io/project/thinkmate/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://dyckia.github.io/project/color-picker-game/</link>
       <pubDate>Sun, 22 Mar 2020 21:54:11 -0230</pubDate>
       <guid>https://dyckia.github.io/project/color-picker-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leetcode</title>
-      <link>https://dyckia.github.io/project/leetcode/</link>
-      <pubDate>Sun, 22 Mar 2020 21:53:54 -0230</pubDate>
-      <guid>https://dyckia.github.io/project/leetcode/</guid>
       <description></description>
     </item>
     
