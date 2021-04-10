@@ -5,7 +5,7 @@
     <link>https://dyckia.github.io/tags/web/</link>
       <atom:link href="https://dyckia.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <description>web</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 22:21:10 -0330</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2021 20:16:35 -0230</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>web</title>
@@ -37,18 +37,18 @@
     </item>
     
     <item>
-      <title>Air Traffic Visualization</title>
-      <link>https://dyckia.github.io/project/air-traffic/</link>
-      <pubDate>Thu, 04 Mar 2021 17:52:51 -0330</pubDate>
-      <guid>https://dyckia.github.io/project/air-traffic/</guid>
+      <title>React GitHub Jobs</title>
+      <link>https://dyckia.github.io/project/react-github-jobs/</link>
+      <pubDate>Fri, 09 Apr 2021 20:16:35 -0230</pubDate>
+      <guid>https://dyckia.github.io/project/react-github-jobs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Color Picker Game</title>
-      <link>https://dyckia.github.io/project/color-picker-game/</link>
-      <pubDate>Sun, 22 Mar 2020 21:54:11 -0230</pubDate>
-      <guid>https://dyckia.github.io/project/color-picker-game/</guid>
+      <title>Air Traffic Visualization</title>
+      <link>https://dyckia.github.io/project/air-traffic/</link>
+      <pubDate>Thu, 04 Mar 2021 17:52:51 -0330</pubDate>
+      <guid>https://dyckia.github.io/project/air-traffic/</guid>
       <description></description>
     </item>
     
